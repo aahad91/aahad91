@@ -29,19 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Cloud Computing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "NFV",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Systems",
       "keywords": [
       ]
     }
