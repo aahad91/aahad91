@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "name": "Abdul Ahad Ayaz",
+    "label": "MSc Student",
+    "picture": "https://aahad91.github.io/images/Selection_005.png",
+    "email": "ahad@mail.upb.de",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://aahad91.github.io",
+    "summary": "I am studying for Masters in Computer Science at the Universität Paderborn.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "33100",
+      "city": "Paderborn",
+      "countryCode": "DEU",
+      "region": "NRW"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "aahad91",
+        "url": "http://github.com/aahad91"
       },
       {
         "network": "linkedin",
