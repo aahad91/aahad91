@@ -71,11 +71,21 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Universität Paderborn, NRW, DE",
+      "area": "Computer Science",
+      "studyType": "MSc.",
+      "startDate": "2018-10-08",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Quaid-e-Awam University of Engineering, Science & Technology, Nawabshah, PK",
+      "area": "Computer Systems Engineering",
+      "studyType": "B.E.",
+      "startDate": "2012-01-16",
+      "endDate": "2016-02-08",
       "gpa": "",
       "courses": [
       ]
@@ -83,15 +93,89 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "IBM, Pakistan",
+      "position": "System Engineer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-12-26",
+      "endDate": "2018-09-07",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provided Tier II Technical Support.",
+        "IT Service Management using IBM Control Desk.",
+        "Systems Life cycle and Patch Management using IBM Bigfix.",
+        "Infrastructure Deployment that included networks, Data Centre & End User Devices.",
+        "Deployment of DR site using Veeam and IBM Storages",
+        "Deployment of Network Monitoring System (Observium).",
+        "Allocating resources and new VM creation in Cloud.",
+        "Reporting using IBM Bigfix, Observium and TrendMicro."
+      ]
+    },
+    {
+      "company": "Inbox Business Technologies, Pakistan",
+      "position": "IT Support Engineer",
+      "website": "",
+      "startDate": "2016-11-23",
+      "endDate": "2017-12-24",
+      "summary": "",
+      "highlights": [
+        "Provided Tier I and Tier II Technical Support.",
+        "Basic System Administration I.e. Managing Computers and Users, Create Active Directory Accounts, managing groups and assigning Office 365 licenses.",
+        "Management of Enterprise IT infrastructure using HP Enterprise Service Manager i.e. Ticketing System.",
+        "Installing and configuring desktop/laptop, operating systems, troubleshoot networks.",
+        "Installation and troubleshooting of standard enterprise software applications (i.e. Oracle E-Business Suite and Siebel etc.).",
+        "Troubleshoot various network issues affect solutions and collaborate with network team and outside vendors to resolve complex issues.",
+        "Managing Cisco Videocon devices.",
+        "Managing IT Asset of SSC3 – Veon.",
+        "Coordination with different vendor’s over telephone, meetings and emails regarding the hardware issues faced by the users."
+      ]
+    },
+    {
+      "company": "The Educator School System, Pakistan",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2016-05-01",
+      "endDate": "2016-11-20",
+      "summary": "",
+      "highlights": [
+        "Provided Technical Support to different School Branches.",
+        "Troubleshooting of network related issue.",
+        "Monitoring the School Management System.",
+        "Installation and Configuration of IT assets."
+      ]
+    },
+    {
+      "company": "Fauji Fertilizer Company Limited, Pakistan",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2015-07",
+      "endDate": "2015-09",
+      "summary": "Worked on SAP ECC 6.0 and took overview of its different modules.",
+      "highlights": [
+        
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     },
     {
