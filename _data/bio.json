@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Abdul Ahad Ayaz",
-    "label": "MSc Student",
+    "label": "SHK-DevOps at Fraunhofer IEM | MSc Student",
     "picture": "https://aahad91.github.io/images/Selection_006.png",
     "email": "ahad@mail.upb.de",
     "phone": "808-333-4444",
     "website": "https://aahad91.github.io",
-    "summary": "I am studying for Masters in Computer Science at the Universität Paderborn.",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "33100",
@@ -30,6 +30,26 @@
   "interests": [
     {
       "name": "Cloud Computing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "OpenStack",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Docker Containers",
       "keywords": [
       ]
     },
