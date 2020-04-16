@@ -3,8 +3,8 @@
     "name": "Abdul Ahad Ayaz",
     "label": "SHK-DevOps at Fraunhofer IEM | MSc Student",
     "picture": "https://aahad91.github.io/images/Selection_006.png",
-    "email": "ahad@mail.upb.de",
-    "phone": "808-333-4444",
+    "email": "abdulahadayaz@hotmail.com",
+    "phone": "",
     "website": "https://aahad91.github.io",
     "summary": "",
     "location": {
@@ -66,26 +66,27 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
+        "Python",
         "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Technologies",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux",
+        "Docker",
+        "Cloud (OpenStack, VMware, Oracle, Hyper-V)",
+        "IBM BigFix Administration",
+        "MS Server Administrtation",
+        "Basic Network Administration",
+        "Veeam Backup, Replication & Veeam ONE",
+        "Git/GitHub/GitLab",
+        "MS Office"
       ]
     }
   ],
@@ -181,7 +182,7 @@
       "endDate": "2015-09-09",
       "summary": "Worked on SAP ECC 6.0 and took overview of its different modules.",
       "highlights": [
-        
+
       ]
     },
     {
@@ -217,15 +218,25 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "VMware Certified Professional 6.5 - Data Center Virtualization",
+        "VMware vSphere 6.5 Foundations",
+        "Oracle Cloud Infrastructure Foundations 2020 Certified Associate",
+        "IBM Bix Fix Security Professional",
+        "Veeam Technical Sales Professional",
+        "Hyperconverged Infrastructure Professional",
+        "IBM Agile Explorer",
+        "IBM Design Thinking Practitioner",
+        "Oracle SQL Fundamentals",
+        "CompTIA Cloud++ - Training",
+        "CCNA Exploration: Network Fundamentals - Training",
+        "Coursera: Python Specialization"
       ]
     },
     {
